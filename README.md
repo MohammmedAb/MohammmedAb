@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I'm Mohammeed Albrayh
 
-<!--
-**MohammmedAb/MohammmedAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to learn, explore, and build things related to AI.   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I'm currently a senior computer science student at Jubail Industrial College and a COOP student at Aramco.
+ 
+- 🌱 I’m currently learning NLP from scratch & plan to learn more about building LLMs systems.
+
+- 📫 How to reach me: mohammedalbrayh@gmail.com
+
+### 🤝 Social Media and IM
+[![Twitter Badge](https://img.shields.io/badge/%40mohAlbrayh-twitter?style=flat&color=00ABEC&logoColor=white&logo=Twitter)](https://twitter.com/mohAlbrayh "Follow me on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/%40mohammedalbrayh-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/mohammed-albrayh/ "Connect on LinkedIn")
+
